@@ -8,5 +8,3 @@ wavフォルダの中の「yukkuri.wav」
 ファイルを以下のディレクトリにコピーして実行してください。
 
 .\YukkuriBuster-master\YukkuriBuster\bin\Debug
-
-ビルドせず、とりあえず実行ファイルをダウンロードして動かしてみたい場合は、以下からダウンロードしてください。
