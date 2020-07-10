@@ -7,4 +7,4 @@ imagesフォルダの中の「yukkuri.img」「yukkuri2.img」「yukkuri3.img」
 wavフォルダの中の「yukkuri.wav」
 ファイルを以下のディレクトリにコピーして実行してください。
 
-.\YukkuriBuster-master\YukkuriBuster\bin\Debug
+.\YukkuriBuster-master\ClickBuster\bin\Debug
