@@ -113,7 +113,7 @@ Partial Class F_Main
         Me.MaximizeBox = False
         Me.Name = "F_Main"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "ClickBuster (メイン画面)"
+        Me.Text = "YukkuriBuster (メイン画面)"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

@@ -78,7 +78,7 @@ Partial Class F_Menu
         Me.MaximizeBox = False
         Me.Name = "F_Menu"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "ClickBuster (メニュー画面)"
+        Me.Text = "YukkuriBuster (メニュー画面)"
         Me.ResumeLayout(False)
 
     End Sub
